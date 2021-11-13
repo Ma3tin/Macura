@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="688a9c54-48dd-4595-83a5-8a56191abb82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/armstrongNumbers.kt" afterDir="false" />
+    <list default="true" id="688a9c54-48dd-4595-83a5-8a56191abb82" name="Changes" comment="Armstrong Number">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/mrkda.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/armstrongNumbers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/armstrongNumbers.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,8 +108,19 @@
       <workItem from="1635876356891" duration="445000" />
       <workItem from="1635878895400" duration="155000" />
       <workItem from="1636045865637" duration="1727000" />
-      <workItem from="1636573741049" duration="3765000" />
+      <workItem from="1636573741049" duration="4572000" />
+      <workItem from="1636630798996" duration="9000" />
+      <workItem from="1636632468827" duration="85000" />
+      <workItem from="1636817880813" duration="316000" />
     </task>
+    <task id="LOCAL-00001" summary="Armstrong Number">
+      <created>1636577719403</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636577719403</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,12 +138,16 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Armstrong Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Armstrong Number" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/main/kotlin/armstrongNumbers.kt</url>
-          <line>7</line>
+          <line>10</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
