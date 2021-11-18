@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="688a9c54-48dd-4595-83a5-8a56191abb82" name="Changes" comment="Armstrong Number">
+    <list default="true" id="688a9c54-48dd-4595-83a5-8a56191abb82" name="Changes" comment="Armstrong Number2">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/avgDamage.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/armstrongNumbers.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/armstrongNumbers.kt" afterDir="false" />
     </list>
@@ -50,7 +51,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Kotlin.ArmstrongNumbersKt">
+  <component name="RunManager" selected="Kotlin.AvgDamageKt">
     <configuration name="mrkda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mrkda" />
       <module name="Macura.main" />
@@ -65,15 +66,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CNBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CNBKt" />
+    <configuration name="AvgDamageKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AvgDamageKt" />
       <module name="Macura.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FruityKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FruityKt" />
+    <configuration name="CNBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CNBKt" />
       <module name="Macura.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.AvgDamageKt" />
         <item itemvalue="Kotlin.ArmstrongNumbersKt" />
         <item itemvalue="Kotlin.UnicateKt" />
         <item itemvalue="Application.mrkda" />
         <item itemvalue="Kotlin.CNBKt" />
-        <item itemvalue="Kotlin.FruityKt" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +112,8 @@
       <workItem from="1636573741049" duration="4572000" />
       <workItem from="1636630798996" duration="9000" />
       <workItem from="1636632468827" duration="85000" />
-      <workItem from="1636817880813" duration="316000" />
+      <workItem from="1636817880813" duration="3213000" />
+      <workItem from="1637273177241" duration="4500000" />
     </task>
     <task id="LOCAL-00001" summary="Armstrong Number">
       <created>1636577719403</created>
@@ -120,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636577719403</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Armstrong Number2">
+      <created>1636818511639</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636818511639</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,17 +149,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Armstrong Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Armstrong Number" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/armstrongNumbers.kt</url>
-          <line>10</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Armstrong Number2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Armstrong Number2" />
   </component>
 </project>
